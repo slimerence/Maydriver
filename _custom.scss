@@ -1,0 +1,37 @@
+@import "Maydriver/assets/vendor/bootstrap/css/bootstrap.min.css";
+@import "Maydriver/assets/vendor/owl-carousel/owl.carousel";
+@import "Maydriver/assets/vendor/owl-carousel/owl.theme";
+@import "Maydriver/assets/vendor/owl-carousel/owl.transitions";;
+@import "Maydriver/assets/vendor/magnific-popup/magnific-popup";
+@import "Maydriver/assets/vendor/animate.css/animate.min";
+@import "Maydriver/assets/css/vitality-red";
+
+h1,h2,h3{
+  font-weight: 300;
+}
+
+.weltext{
+  margin: auto;
+  h1{
+    color:#fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 5em;
+  }
+
+  h2{
+    margin-top:0.8em;
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 2em;
+  }
+}
+
+.titleline{
+  content: "";
+  width: 40%;
+  margin: 0 auto;
+  height: 0.3rem;
+  background: #ffdf7b;
+}
+
+
