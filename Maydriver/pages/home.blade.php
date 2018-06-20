@@ -7,25 +7,62 @@
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid rounded my-5" src="{{ asset('images/frontend/sirbasil/intro.png') }}" alt="Info Image">
+                    <img class="img-fluid rounded my-5" src="{{ asset('images/intro.jpg') }}" alt="Info Image">
                 </div>
-                <div class="col-lg-6 text-center my-auto">
-                    <h2>Hi, Welcome to Sir Basil</h2>
+                <div class="col-lg-6 my-auto">
+                    <h2 class="text-center">墨尔本驾校</h2>
                     <hr class="colored">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam asperiores at cum dolor dolore, eaque fuga, fugit illum laboriosam mollitia quisquam repudiandae rerum sequi soluta suscipit vel velit vero.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus, dolorem dolores, ducimus, impedit inventore labore nemo perferendis porro possimus quam quas reprehenderit veritatis. Ab accusamus amet expedita hic maxime!</p>
+                    <p>好教练可以而不可求。碰上爆脾气，经验不足，路考通过率低，全程只陪不练的教练，导致学员各种迷茫,各种崩溃，外加练车过程中的恐慌，五味杂陈。作为墨尔本为数不多的女教练May为您解决您的所有困扰和顾虑。</p>
+                    <p>维州DIA官方认证的持牌女教练May, 亲自主理自创的墨尔本首发驾校（SOFAR Driving School），路考通过率高达90%以上。细致，专业，好脾气是May对每个学员的教学承诺，让学员们轻松学车，高效拿证，扎实学到开车技能和维州交规。May语言组织能力强，表达清晰，擅长循序渐进式的引导教学，经验丰富，口碑好，合理根据学员个体情况量身定制驾驶教程。</p>
                 </div>
             </div>
         </div>
     </section>
 
+    <!-- Services Section -->
+
+    <section class="page-section bg-light" id="services">
+        <div class="container">
+            <div class="wow fadeIn text-center">
+                <h2>May教练提供的教程范围如下</h2>
+                <p class="mb-0">一路有我，安全出行！选择May, 选择终身的平安！</p>
+            </div>
+            <hr class="colored">
+            <div class="row text-center">
+                <div class="col-lg-3 col-md-6">
+                    <div class="wow fadeIn px-4 h-100" data-wow-delay=".8s">
+                        <i class="fa fa-heart fa-2x"></i>
+                        <p class="mb-0">零基础学员手脚协调专业训练及结合《Vicroads独立驾驶之路》图文详解及教授交规</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" data-wow-delay=".2s">
+                        <i class="fa fa-code fa-2x"></i>
+                        <p class="mb-0">标准普通话/英语双语教学<br>双刹车双油门自动挡专业教练车，车身轻巧，操控简易</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" data-wow-delay=".4s">
+                        <i class="fa fa-edit fa-2x"></i>
+                        <p class="mb-0">海外驾照陪练及结合《Vicroads独立驾驶之路》图文详解及教授交规</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" data-wow-delay=".6s">
+                        <i class="fa fa-tablet fa-2x"></i>
+                        <p class="mb-0">路考集训：熟悉和操练路局路考路线，模拟路考模式，图片实景解析难点路口及注意事项</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Call to Action -->
-    <section class="call-to-action" style="background-image: url('images/frontend/sirbasil/assets/backgrounds/bg-quote.jpg');">
+    <section class="call-to-action" style="background-image: url('images/backgrounds/footer.jpg');">
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-md-10 offset-md-1">
-                    <span class="quote">Something about our special room</span>
+                    <span class="quote">获得课程报价</span>
                     <hr class="colored">
                     <a class="btn btn-primary js-scroll-trigger" href="#people">View More</a>
                 </div>
@@ -33,202 +70,5 @@
         </div>
     </section>
 
-    <!-- Menu Gallery -->
-    <section class="page-section" id="menu">
-        <div class="container wow fadeIn">
-            <div class="text-center">
-                <h2>Menu</h2>
-                <hr class="colored">
-                <p>Here is a selection of items from our menu. Please call for additional details.</p>
-            </div>
-            <div class="portfolio-gallery">
-                <div class="item">
-                    <a href="{{ asset('images/frontend/sirbasil/assets/menu/1.jpg') }}" class="gallery-link" title="Czech Honey Cake">
-                        <img src="{{ asset('images/frontend/sirbasil/assets/menu/1.jpg') }}" class="img-fluid mx-auto" alt="">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="{{ asset('images/frontend/sirbasil/assets/menu/2.jpg') }}" class="gallery-link" title="Mini Croissants">
-                        <img src="{{ asset('images/frontend/sirbasil/assets/menu/2.jpg') }}" class="img-fluid mx-auto" alt="">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="{{ asset('images/frontend/sirbasil/assets/menu/3.jpg') }}" class="gallery-link" title="Gourmet Sweet Cakes">
-                        <img src="{{ asset('images/frontend/sirbasil/assets/menu/3.jpg') }}" class="img-fluid mx-auto" alt="">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="{{ asset('images/frontend/sirbasil/assets/menu/4.jpg') }}" class="gallery-link" title="Traditional Honey Cake">
-                        <img src="{{ asset('images/frontend/sirbasil/assets/menu/4.jpg') }}" class="img-fluid mx-auto" alt="">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="{{ asset('images/frontend/sirbasil/assets/menu/5.jpg') }}" class="gallery-link" title="Rosemary Breadsticks and Salami Rolls">
-                        <img src="{{ asset('images/frontend/sirbasil/assets/menu/5.jpg') }}" class="img-fluid mx-auto" alt="">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="{{ asset('images/frontend/sirbasil/assets/menu/6.jpg') }}" class="gallery-link" title="Mini Croissants">
-                        <img src="{{ asset('images/frontend/sirbasil/assets/menu/6.jpg') }}" class="img-fluid mx-auto" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Hours Section - Repurposed from Pricing Table -->
-    <section class="page-section pricing" id="hours" style="background-image: url('images/frontend/sirbasil/assets/backgrounds/bg-pricing.jpg')">
-        <div class="container wow fadeIn">
-            <div class="text-center">
-                <h2>Hours</h2>
-                <hr class="colored">
-                <p>We serve breakfast, lunch, and dinner every day of the week.</p>
-            </div>
-            <div class="row">
-                <!-- Pricing Table 1 -->
-                <div class="col-md-4">
-                    <div class="pricing-item">
-                        <h3>Breakfast</h3>
-                        <hr class="colored">
-                        <ul class="list-group">
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Mon - Thu: 7am - 11am
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Fri: 7am - 12pm
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Sat: 7am - 3pm
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Sun: All Day
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Pricing Table 2 -->
-                <div class="col-md-4">
-                    <div class="pricing-item">
-                        <h3>Lunch</h3>
-                        <hr class="colored">
-                        <ul class="list-group">
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Mon - Thu: 7am - 11am
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Fri: 7am - 12pm
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Sat: 7am - 3pm
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Sun: All Day
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Pricing Table 3 -->
-                <div class="col-md-4">
-                    <div class="pricing-item">
-                        <h3>Dinner</h3>
-                        <hr class="colored">
-                        <ul class="list-group">
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Mon - Thu: 7am - 11am
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Fri: 7am - 12pm
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Sat: 7am - 3pm
-                                </div>
-                            </li>
-                            <li class="list-group-item">
-                                <div class="w-100 text-center font-italic">
-                                    Sun: All Day
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Press Section -->
-    <section class="page-section testimonials" id="press">
-        <div class="container wow fadeIn">
-            <h2>Testimonials</h2>
-            <hr class="colored">
-            <p class="mb-4">Here's what the critics are saying.</p>
-            <div class="row">
-                <div class="col-lg-10 mx-auto">
-                    <div class="testimonials-carousel">
-                        <!-- Testimonial Item 1 -->
-                        <div class="item mb-4">
-                            <p class="lead">"A unique blend of flavors at this restaurant made for an unforgettable culinary adventure."</p>
-                            <hr class="colored">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, temporibus, laborum, dignissimos doloremque corporis alias nostrum recusandae culpa id quisquam harum impedit sed sunt non obcaecati vero ipsam aut fugit?</p>
-                            <div class="testimonial-img">
-                                <img class="rounded-circle img-fluid" src="{{ asset('images/frontend/sirbasil/assets/testimonials/1.jpg') }}" alt="">
-                            </div>
-                            <div class="testimonial-author">
-                                <span class="name">Jim Walker</span>
-                                <p class="small">Food Critic</p>
-                                <div class="stars">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Testimonial Item 2 -->
-                        <div class="item mb-4">
-                            <p class="lead">"Some of the best food I ever tasted came from the head chef."</p>
-                            <hr class="colored">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem amet rem minus dolorum, facere in soluta explicabo, unde eveniet illo vel, nemo nostrum atque nesciunt facilis quaerat quasi reprehenderit dicta.</p>
-                            <div class="testimonial-img">
-                                <img class="rounded-circle img-fluid" src="{{ asset('images/frontend/sirbasil/assets/testimonials/2.jpg') }}" alt="">
-                            </div>
-                            <div class="testimonial-author">
-                                <span class="name">Ashley Creadle</span>
-                                <p class="small">Writer at Cuisine World</p>
-                                <div class="stars">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
 @endsection
