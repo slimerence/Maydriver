@@ -4,7 +4,6 @@
 @include(_get_frontend_layout_path('frontend._head'))
 <body id="page-top">
 @include(_get_frontend_layout_path('frontend._nav'))
-@include(_get_frontend_layout_path('frontend._header'))
 
 @yield('content')
 

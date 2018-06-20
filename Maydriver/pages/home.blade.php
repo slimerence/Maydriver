@@ -1,5 +1,7 @@
 @extends(_get_frontend_layout_path('frontend'))
 
+@include(_get_frontend_layout_path('frontend._header'))
+
 @section('content')
 
     <!-- About Section -->
@@ -30,25 +32,25 @@
             <hr class="colored">
             <div class="row text-center">
                 <div class="col-lg-3 col-md-6">
-                    <div class="wow fadeIn px-4 h-100" data-wow-delay=".8s">
+                    <div class="wow fadeIn px-4 " data-wow-delay=".8s">
                         <i class="fa fa-heart fa-2x"></i>
                         <p class="mb-0">零基础学员手脚协调专业训练及结合《Vicroads独立驾驶之路》图文详解及教授交规</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
                         <i class="fa fa-code fa-2x"></i>
                         <p class="mb-0">标准普通话/英语双语教学<br>双刹车双油门自动挡专业教练车，车身轻巧，操控简易</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" data-wow-delay=".4s">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0" data-wow-delay=".4s">
                         <i class="fa fa-edit fa-2x"></i>
                         <p class="mb-0">海外驾照陪练及结合《Vicroads独立驾驶之路》图文详解及教授交规</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" data-wow-delay=".6s">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".6s">
                         <i class="fa fa-tablet fa-2x"></i>
                         <p class="mb-0">路考集训：熟悉和操练路局路考路线，模拟路考模式，图片实景解析难点路口及注意事项</p>
                     </div>
@@ -58,13 +60,13 @@
     </section>
 
     <!-- Call to Action -->
-    <section class="call-to-action" style="background-image: url('images/backgrounds/footer.jpg');">
+    <section class="call-to-action" style="background-image: url({{ asset('images/backgrounds/footer-v1.jpg') }});">
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-md-10 offset-md-1">
                     <span class="quote">获得课程报价</span>
                     <hr class="colored">
-                    <a class="btn btn-primary js-scroll-trigger" href="#people">View More</a>
+                    <a class="btn btn-primary js-scroll-trigger" href="{{ url('/page/courses') }}">View More</a>
                 </div>
             </div>
         </div>
