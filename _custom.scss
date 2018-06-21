@@ -47,6 +47,11 @@ h4{
   }
 }
 
+.childhead .weltext{
+  h1{
+    text-shadow: 1px 1px 17px #675050;
+  }
+}
 .titleline{
   content: "";
   width: 10%;
@@ -74,6 +79,9 @@ section.page-section {
   .call-to-action {
     padding: 100px 0;
   }
+}
+#mainNav .navbar-brand{
+  color: #0a0a0a;
 }
 #mainNav .navbar-nav > .nav-item > .nav-link.nav-link{
   font-weight: bold;
@@ -158,4 +166,91 @@ header.childhead{
 
 .pull-right {
   float: right;
+}
+
+
+/*----- contact ------*/
+
+.contact-form p input[type="text"],
+.contact-form p textarea {
+  border: 1px solid #ddd;
+  border-radius: 0;
+  font-size: 13px;
+  padding: 10px;
+  width: 100%;
+}
+.contact-form .form-submit input {
+  background: #bd8348 none repeat scroll 0 0;
+  border-radius: 0;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 24px;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  text-transform: uppercase;
+  width: 100%;
+}
+.contact-title.text-center span {
+  color: #9d9d9d;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+.contact-title.text-center {
+  color: #606060;
+  margin-bottom: 50px;
+}
+.contact-title.text-center>h2 {
+  margin-bottom: 30px;
+}
+.contact-info {
+  padding: 30px 0 100px;
+}
+#commentform {
+  margin-top: 30px;
+}
+.contact-info strong {
+  display: inline-table;
+  font-size: 15px;
+  font-weight: 500;
+}
+.contact-info>ul {
+  list-style: outside none none;
+  padding: 0;
+}
+.contact-info li {
+  float: left;
+  margin-bottom: 50px;
+  width: 100%;
+}
+.contact-info .f-sicon2 ul {
+  margin: 30px 0 0 0;
+  padding: 0;
+}
+.contact-info .f-sicon2 li {
+  float: inherit;
+  margin: 0 15px 0 0;
+}
+.contact-info .f-sicon2 li a {
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+}
+.contact-info .img-icon {
+  float: left;
+  margin-right: 25px;
+}
+#input-email {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  font-size: 13px;
+  padding: 10px;
+}
+
+#submit-contact-us-btn{
+  border: none;
+  width: 100%;
+  background-color: #fbeada;
 }

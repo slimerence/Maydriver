@@ -1,8 +1,8 @@
 @extends(_get_frontend_layout_path('frontend'))
 
-@include(_get_frontend_layout_path('frontend._childheader'))
 
 @section('content')
+    @include(_get_frontend_layout_path('frontend._childheader'))
 
     <section class="page-section bg-light" id="services">
         <div class="container">

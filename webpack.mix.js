@@ -14,8 +14,8 @@ let mix = require('laravel-mix');
 // 前端
 mix.js('resources/assets/js/app.js', 'public/js')
     .js('resources/views/frontend/custom/_custom.js', 'public/js')
-   .sass('resources/assets/sass/app.scss', 'public/css')
-   .sass('resources/views/frontend/custom/_custom.scss', 'public/css')
+    .sass('resources/assets/sass/app.scss', 'public/css')
+    .sass('resources/views/frontend/custom/_custom.scss', 'public/css')
     .sass('resources/views/frontend/custom/MayDriver/assets/vendor/font-awesome/scss/font-awesome.scss', 'public/css');
 
 // combine all css/js into a single css/js

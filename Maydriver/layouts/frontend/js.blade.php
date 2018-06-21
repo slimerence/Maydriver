@@ -11,7 +11,7 @@
 <script src="{{url('demos/vendor/wowjs/wow.min.js')}}"></script>
 
 <!-- Contact form JavaScript -->
-<script src="{{url('js/contact_me.js')}}"></script>
+<script src="{{url('js/all.js')}}"></script>
 <script src="{{url('js/jqBootstrapValidation.js')}}"></script>
 
 <!-- Custom scripts for this theme -->

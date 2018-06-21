@@ -44,4 +44,8 @@
         </div>
     </section>
 
+
+    @include(_get_frontend_theme_path('pages.elements.contact'))
+
+
 @endsection
