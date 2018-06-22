@@ -13,17 +13,18 @@ let mix = require('laravel-mix');
 
 // 前端
 mix.js('resources/assets/js/app.js', 'public/js')
+    .js('resources/views/frontend/custom/mayDriver/assets/js/jqBootstrapValidation', 'public/js')
+    .js('resources/views/frontend/custom/mayDriver/assets/js/vitality', 'public/js')
     .js('resources/views/frontend/custom/_custom.js', 'public/js')
     .sass('resources/assets/sass/app.scss', 'public/css')
-    .sass('resources/views/frontend/custom/_custom.scss', 'public/css')
-    .sass('resources/views/frontend/custom/MayDriver/assets/vendor/font-awesome/scss/font-awesome.scss', 'public/css');
+    .sass('resources/views/frontend/custom/_custom.scss', 'public/css');
 
 // combine all css/js into a single css/js
 mix.styles([
     'public/css/_custom.css'
 ], 'public/css/all.css');
 mix.scripts([
-    'public/js/_custom.js'
+    'public/js/_custom.js',
 ], 'public/js/all.js');
 // 最终加载两个文件， all.css 和 all.js
 
@@ -35,6 +36,4 @@ mix.js('resources/assets/js/backend.js', 'public/js')
 *   拷贝图片等
 */
 mix.copyDirectory(['resources/assets/images'],'public/images')
-    .copyDirectory(['resources/views/frontend/custom/MayDriver/assets/vendor'],'public/demos/vendor')
-    .copyDirectory(['resources/views/frontend/custom/MayDriver/assets/js'],'public/js')
-    .copyDirectory(['resources/views/frontend/custom/MayDriver/assets/images'],'public/images');
+    .copyDirectory(['resources/views/frontend/custom/mayDriver/assets/images'],'public/images');
