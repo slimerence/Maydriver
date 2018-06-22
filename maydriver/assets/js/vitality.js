@@ -17,6 +17,7 @@ $(document).ready(function() {
   } else {
     //desktop
     // Initialize WOW.js
+    var wow;
     wow = new WOW({
       offset: 50
     })
