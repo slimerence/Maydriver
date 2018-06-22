@@ -13,8 +13,8 @@ let mix = require('laravel-mix');
 
 // 前端
 mix.js('resources/assets/js/app.js', 'public/js')
-    .js('resources/views/frontend/custom/mayDriver/assets/js/jqBootstrapValidation', 'public/js')
-    .js('resources/views/frontend/custom/mayDriver/assets/js/vitality', 'public/js')
+    .js('resources/views/frontend/custom/maydriver/assets/js/jqBootstrapValidation', 'public/js')
+    .js('resources/views/frontend/custom/maydriver/assets/js/vitality', 'public/js')
     .js('resources/views/frontend/custom/_custom.js', 'public/js')
     .sass('resources/assets/sass/app.scss', 'public/css')
     .sass('resources/views/frontend/custom/_custom.scss', 'public/css');
