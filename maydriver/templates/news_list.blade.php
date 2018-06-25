@@ -1,7 +1,7 @@
 @extends(_get_frontend_layout_path('frontend'))
 
 @section('content')
-    <header class="childhead" style="background-image:  url({{ asset('images/backgrounds/footer-v1.jpg') }}) ">
+    <header class="childhead" style="background-image:  url({{ asset('images/backgrounds/footer-v2.jpg') }}) ">
     <div class="container h-100">
         <div class="row h-100">
             <div class="col-12 my-auto text-center text-white">
