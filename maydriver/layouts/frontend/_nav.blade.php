@@ -13,13 +13,13 @@
                     <a class="nav-link" href="/">首页</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url('/page/courses') }}">陪练课程和价格</a>
+                    <a class="nav-link" href="{{ url('/courses') }}">陪练课程和价格</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/results') }}">路考学员</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url('/page/learn') }}">路考知识</a>
+                    <a class="nav-link" href="{{ url('/learn') }}">路考知识</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/page/blog') }}">May's 陪练心历</a>
