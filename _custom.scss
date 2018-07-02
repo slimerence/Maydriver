@@ -270,3 +270,24 @@ body, html{
     width: 100%;
   }
 }
+
+.portfolio-grid .mix .portfolio-wrapper .caption{
+  height:auto;
+}
+.portfolio-grid .mix .portfolio-wrapper img{
+  height: 30vh;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .portfolio-grid .mix {
+    width: 23%;
+    margin: 1%;
+  }
+}
+.bg-light{
+  background-color:#faf8f8;
+}
+
+#services .fa{
+  color:#a24941;
+}

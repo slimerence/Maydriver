@@ -39,7 +39,7 @@
                 </div>
                 <div class="col-lg-12 my-auto">
                     <h2 class="text-center">L牌和风险认知测试模拟题</h2>
-                    <p><a href="http://mylicence.sa.gov.au/hazard-perception-test">http://mylicence.sa.gov.au/hazard-perception-test</a></p>
+                    <p><a href="http://mylicence.sa.gov.au/hazard-perception-test">风险认知模拟测试</a></p>
                 </div>
             </div>
         </div>

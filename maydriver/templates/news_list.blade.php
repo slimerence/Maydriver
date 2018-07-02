@@ -27,7 +27,6 @@
                         <div class="caption">
                             <div class="caption-text">
                                 <a class="text-title">{{ $post->title }}</a>
-                                <span class="text-category">{{ $post->updated_at->format('Y-m-d')}}</span>
                             </div>
                             <div class="caption-bg"></div>
                         </div>
