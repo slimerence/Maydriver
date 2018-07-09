@@ -8,4 +8,4 @@
 
 Route::get('/results', 'Frontend\Pages@news');
 Route::get('/courses', '\Smartbro\Controllers\CustomController@courses');
-Route::get('/courses', '\Smartbro\Controllers\CustomController@learn');
+Route::get('/learn', '\Smartbro\Controllers\CustomController@learn');
