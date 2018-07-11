@@ -8,7 +8,7 @@
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid rounded my-5" src="{{ asset('images/intro.jpg') }}" alt="Info Image">
+                    <img class="img-fluid rounded my-5" src="{{ asset('images/learn1.jpg') }}" alt="Info Image">
                 </div>
                 <div class="col-lg-6 my-auto">
                     <h2 class="text-center">墨尔本驾校</h2>
@@ -65,7 +65,7 @@
                 <div class="col-md-10 offset-md-1">
                     <span class="quote">获得课程报价</span>
                     <hr class="colored">
-                    <a class="btn btn-primary js-scroll-trigger" href="{{ url('/page/courses') }}">View More</a>
+                    <a class="btn btn-primary js-scroll-trigger" href="{{ url('/courses') }}">View More</a>
                 </div>
             </div>
         </div>

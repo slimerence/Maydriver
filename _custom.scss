@@ -25,13 +25,16 @@ h4{
     color: #323232;
   }
 }
-
+#mainNav .navbar-brand{
+  text-transform: none;
+}
 .weltext{
   margin: auto;
   h1{
     color:#fff;
     font-family: 微软雅黑;
     font-size: 4em;
+    text-shadow: 1px 1px 17px #675050;
   }
 
   h2{
