@@ -48,6 +48,8 @@
                                 <strong>微信  </strong><br>
                                 <div class="qrcode">
                                     <span>扫二维码添加</span>
+                                    <img src="{{ asset('images/wechat.jpg') }}" alt="phone-icon" style="width: 30%;display: block;">
+
                                 </div>
                             </li>
                         </ul>
