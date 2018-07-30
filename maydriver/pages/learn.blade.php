@@ -12,20 +12,6 @@
             </div>
         </div>
     </header>
-    <section  class="page-section">
-        <div class="container wow fadeIn">
-            <div class="row">
-                <div class="col-lg-6">
-                    <img class="img-fluid rounded my-5" src="{{ asset('images/learn1.jpg') }}" alt="Info Image">
-                </div>
-                <div class="col-lg-6 my-auto">
-                    <h2 class="text-center">路考知识</h2>
-                    <hr class="colored">
-                    <p>内容更新中</p>
-                </div>
-            </div>
-        </div>
-    </section>
     <section>
         <div class="container wow fadeIn">
             <div class="row">
@@ -39,7 +25,7 @@
                 </div>
                 <div class="col-lg-12 my-auto">
                     <h2 class="text-center">L牌和风险认知测试模拟题</h2>
-                    <p><a href="http://mylicence.sa.gov.au/hazard-perception-test">风险认知模拟测试</a></p>
+                    <p><a href="http://mylicence.sa.gov.au/hazard-perception-test" target="_blank">风险认知模拟测试</a></p>
                 </div>
             </div>
         </div>

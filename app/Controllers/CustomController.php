@@ -24,4 +24,7 @@ class CustomController extends Controller
     public function learn(){
         return view(_get_frontend_theme_path('pages.learn'),$this->dataForView);
     }
+    public function term(){
+        return view(_get_frontend_theme_path('pages.404'),$this->dataForView);
+    }
 }
