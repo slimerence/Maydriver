@@ -8,7 +8,7 @@ h2{
   font-size: 2rem;
 }
 p{
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 h4{
@@ -293,4 +293,31 @@ body, html{
 
 #services .fa{
   color:#a24941;
+}
+
+.fs-rem{
+  font-size:1rem;
+}
+
+.fcolor-r{
+  i{
+    margin:0 1em;
+    color: red;
+  }
+}
+.fcolor-g{
+  i{
+    margin:0 1em;
+    color:green;
+  }
+}
+.local-wrap{
+  h3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+  }
+  p{
+    margin: 0.2em 0 0.4em 0;
+  }
 }
