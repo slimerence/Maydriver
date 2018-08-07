@@ -7,8 +7,8 @@
     <section class="page-section" id="about">
         <div class="container wow fadeIn">
             <div class="row">
-                <div class="col-lg-6">
-                    <img class="img-fluid rounded my-5" src="{{ asset('images/learn1.jpg') }}" alt="Info Image">
+                <div class="col-lg-6 text-center">
+                    <img class="img-fluid rounded my-5" src="{{ asset('images/may.jpg') }}" style="max-height: 400px;width: auto;" alt="Info Image">
                 </div>
                 <div class="col-lg-6 my-auto">
                     <h2 class="text-center">墨尔本驾校</h2>
