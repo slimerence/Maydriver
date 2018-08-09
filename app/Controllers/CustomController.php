@@ -34,6 +34,6 @@ class CustomController extends Controller
         $this->dataForView['pageTitle'] = 'Terms';
         $this->dataForView['metaKeywords'] = 'Terms and condition';
         $this->dataForView['metaDescription'] = 'Terms and condition';
-        return view(_get_frontend_theme_path('pages.404'),$this->dataForView);
+        return view(_get_frontend_theme_path('pages.terms'),$this->dataForView);
     }
 }
