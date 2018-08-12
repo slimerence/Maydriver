@@ -40,7 +40,7 @@
                 </div>
                 <div class="col">
                     <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
-                        <i class="fa fa-language fa-2x"></i>
+                        <i class="fa fa-taxi fa-2x"></i>
                         <p class="mb-0">双刹车双油门自动挡专业教练车，车身轻巧，操控简易</p>
                     </div>
                 </div>
