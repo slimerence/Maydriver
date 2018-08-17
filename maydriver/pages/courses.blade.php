@@ -13,7 +13,14 @@
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
-                <caption>套餐费用不含GST，转账时需加10% GST，所缴纳费用有效期2年，过期无效。</caption>
+                <caption>套餐费用不含GST，转账时需加10% GST，所缴纳费用有效期2年，过期无效。
+                    <div class="mt-1 d-flex w-100">
+                        <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
+                        <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
+                        <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>
+                        <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div></div>
+                    <p>注*：学员使用网上转账缴费时，请转学费数额+GST（学费的10%），并留下手机号码作为Reference方便核对。</p>
+                </caption>
                 <thead>
                 <tr>
                     <th scope="col">堂数</th>

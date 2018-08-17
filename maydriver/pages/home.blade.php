@@ -9,7 +9,8 @@
             <div class="row">
                 <div class="col-lg-6 text-center">
                     <img class="img-fluid rounded" src="{{ asset('images/may.jpg') }}" style="max-height: 400px;width: auto;" alt="Info Image">
-                    <h3 style="font-size: 14px;" class="mt-1">维州DIA持牌女教练MAY</h3>
+                    <h3 style="font-size: 16px;font-weight: bold" class="mt-1">维州DIA持牌女教练MAY</h3>
+                    <p><i class="fa fa-phone" style="color:red;" aria-hidden="true"></i>0421279588</p>
                 </div>
                 <div class="col-lg-6 my-auto">
                     <h2 class="text-center">墨尔本驾校——资深女教练May</h2>

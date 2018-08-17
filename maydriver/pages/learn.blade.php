@@ -12,12 +12,13 @@
             </div>
         </div>
     </header>
-    <section>
+    <section style="padding: 150px 0;">
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-lg-6 my-auto">
                     <h2 class="text-center">L牌（初学许可）交规考试题库</h2>
                     <hr class="colored">
+                    <p>链接：<a href="https://www.vicroads.vic.gov.au/licences/your-ls/get-your-ls/lpt" target="_blank">https://www.vicroads.vic.gov.au/licences/your-ls/get-your-ls/lpt</a></p>
                     <p class="fs-rem">安卓手机下载APP（App截图）<br/>
                         搜索关键字： 中文L牌vicroads test。IOS系统只有英文题库，搜索关键字：vicroads test L plate。
                     </p>
@@ -31,11 +32,11 @@
                         <li>考试通过后可获取 learnner permit licence，有效期10年</li>
                     </ul>
                 </div>
-                <div class="col-lg-6 text-center">
-                    <img class="img-fluid rounded my-5" style="max-height: 400px;" src="{{ asset('images/app.jpg') }}" alt="Info Image">
+                <div class="col-lg-6 text-center my-auto">
+                    <img class="img-fluid rounded" style="max-height: 400px;" src="{{ asset('images/app.png') }}" alt="Info Image">
                 </div>
-                <div class="col-lg-6 text-center">
-                    <img class="img-fluid rounded my-5" src="{{ asset('images/learn1.jpg') }}" alt="Info Image">
+                <div class="col-lg-6 text-center my-auto" >
+                    <img class="img-fluid rounded" src="{{ asset('images/htest.jpg') }}" alt="Info Image" style="max-height: 500px;">
                 </div>
                 <div class="col-lg-6 my-auto">
                     <h2 class="text-center">风险认知测试（HPT测试）</h2>
