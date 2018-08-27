@@ -4,7 +4,7 @@
         <div class="row h-100">
             <div class="col-12 my-auto text-center text-white">
                 <div class="weltext">
-                    <h1 class="align-items-center">一路有我，安全出行</h1>
+                    <h3 class="align-items-center">一路有我，安全出行</h3>
                 </div>
             </div>
         </div>

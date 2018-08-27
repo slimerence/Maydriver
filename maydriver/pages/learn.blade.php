@@ -6,7 +6,7 @@
             <div class="row h-100">
                 <div class="col-12 my-auto text-center text-white">
                     <div class="weltext">
-                        <h1 class="align-items-center">一路有我，安全出行</h1>
+                        <h3 class="align-items-center">一路有我，安全出行</h3>
                     </div>
                 </div>
             </div>
@@ -15,6 +15,10 @@
     <section style="padding: 150px 0;">
         <div class="container wow fadeIn">
             <div class="row">
+                <div class="col-12 text-center mb-30">
+                    <h1>墨尔本驾校 | 学车</h1>
+                    <p>Sofar墨尔本驾校助您学车及考试一臂之力， 是您通过澳洲路考的好帮手。</p>
+                </div>
                 <div class="col-lg-6 my-auto">
                     <h2 class="text-center">L牌（初学许可）交规考试题库</h2>
                     <hr class="colored">

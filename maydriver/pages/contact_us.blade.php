@@ -6,7 +6,7 @@
             <div class="row h-100">
                 <div class="col-12 my-auto text-center text-white">
                     <div class="weltext">
-                        <h1 class="align-items-center">一路有我，安全出行</h1>
+                        <h1 class="align-items-center">华人教练 | 墨尔本驾校教练 | 女教练</h1>
                     </div>
                 </div>
             </div>

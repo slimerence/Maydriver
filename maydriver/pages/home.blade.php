@@ -13,10 +13,11 @@
                     <p style="font-size: 24px;"><i class="fa fa-phone" style="color:red;" aria-hidden="true"></i>0421279588</p>
                 </div>
                 <div class="col-lg-6 my-auto">
-                    <h2 class="text-center">墨尔本驾校——资深女教练May</h2>
+                    <h1 class="text-center" style="font-size: 30px;">墨尔本驾校——资深女教练May</h1>
+                    <h2 class="text-center" style="font-size: 24px;">墨尔本驾校 | 澳洲驾照考试</h2>
                     <hr class="colored">
                     <p>好教练可遇而不可求。碰上爆脾气，经验不足，路考通过率低，全程只陪不练的教练，导致学员各种迷茫,各种崩溃，外加练车过程中的恐慌，五味杂陈。作为墨尔本为数不多的女教练May为您解决您的所有困扰和顾虑。</p>
-                    <p>维州DIA官方认证的持牌女教练May, 亲自主理自创的墨尔本首发驾校（SOFAR Driving School），路考通过率高达90%以上。细致，专业，好脾气是May对每个学员的教学承诺，让学员们轻松学车，高效拿证，扎实学到开车技能和维州交规。May语言组织能力强，表达清晰，擅长循序渐进式的引导教学，经验丰富，口碑好，合理根据学员个体情况量身定制驾驶教程。</p>
+                    <p>维州DIA官方认证的持牌女教练May, 亲自主理自创的墨尔本首发驾校（SOFAR Driving School），路考通过率高达90%以上。细致，专业，好脾气是May对每个学员的教学承诺，让学员们轻松学车，高效拿证，扎实学到开车技能和维州交规。May语言组织能力强，表达清晰，擅长循序渐进式的引导教学，经验丰富，口碑好，合理根据学员个体情况量身定制驾驶教程。帮助很多学生顺利通过澳洲驾照考试。</p>
                     <p><strong>授课范围：</strong>Burwood east, Heatherton, Dandenone路局及周边地区</p>
                 </div>
             </div>

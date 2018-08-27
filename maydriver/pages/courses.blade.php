@@ -8,6 +8,7 @@
         <div class="container">
             <div class="wow fadeIn text-center">
                 <h2>墨尔本驾校价格</h2>
+                <h1 style="font-size: 20px;">澳洲考驾照 | 澳洲学车</h1>
                 <p class="mb-0">1堂=45分钟  套课价39元/堂 单次课40元/堂<br/>路考：教练车+教练陪同<br/>包考过：不限次数带路考考过为止
                 </p>
             </div>
