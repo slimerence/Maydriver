@@ -29,14 +29,14 @@
                         <ul>
                             <li>
                                 <div class="img-icon">
-                                    <img src="{{ asset('images/contact-icon2.jpg') }}" alt="phone-icon">
+                                    <img src="{{ asset('images/contact-icon3.jpg') }}" alt="phone-icon">
                                 </div>
                                 <strong>Phone</strong>
                                 <br/> {{ $siteConfig->contact_phone }}
                             </li>
                             <li>
                                 <div class="img-icon">
-                                    <img src="{{ asset('images/contact-icon3.jpg') }}" alt="phone-icon">
+                                    <img src="{{ asset('images/contact-icon2.jpg') }}" alt="phone-icon">
                                 </div>
                                 <strong>Email  </strong>
                                 <br/> {{ $siteConfig->contact_email }}
