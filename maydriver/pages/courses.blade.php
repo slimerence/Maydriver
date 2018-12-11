@@ -15,7 +15,7 @@
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
                 <caption>套餐费用不含GST，转账时需加10% GST，所缴纳费用有效期2年，过期无效。
-                    <div class="mt-1 d-flex w-100">
+                    <div class="mt-1 d-flex flex-wrap w-100">
                         <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
                         <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
                         <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>

@@ -19,11 +19,13 @@
                 <div class="col-md-8 offset-md-2 blog-post-hr">
                     @foreach($posts as $key=>$post)
                     <div class="blog-post mb-30">
+                        @if(isset($post->feature_image)&& $post->feature_image!=="")
                         <div class="post-media">
                             <div class="item">
                                 <img src="{{ asset($post->feature_image) }}" alt="" />
                             </div>
                         </div>
+                        @endif
                         <div class="post-meta"><span>{{ $post->updated_at->format('Y-m-d') }}</span></div>
                         <div class="post-header">
                             <h4><a href="{{ url('/page'.$post->uri) }}">{{ $post->title }}</a></h4>

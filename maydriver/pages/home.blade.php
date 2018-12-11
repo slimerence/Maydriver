@@ -13,7 +13,7 @@
                     <p style="font-size: 24px;"><i class="fa fa-phone" style="color:red;" aria-hidden="true"></i>0421279588</p>
                 </div>
                 <div class="col-lg-6 my-auto">
-                    <h1 class="text-center" style="font-size: 30px;">墨尔本 驾校</h1>
+                    <h1 class="text-center" style="font-size: 30px;">墨尔本驾校</h1>
                     <h3 style="font-size: 16px;" class="text-center">资深女教练May</h3>
                     <h2 class="text-center" style="font-size: 24px;">墨尔本驾校 | 澳洲驾照考试</h2>
                     <hr class="colored">
