@@ -48,13 +48,23 @@
             <div class="container wow fadeIn">
                 <div class="row" style="padding: 2em;    margin: 2em 0;    border: 1px solid;">
                     <div class="col-lg-12">
-                        <h3 class="text-left" style="font-size: 11px;"> 缴费特别说明</h3>
-                        <p class="fs-rem" style="font-size: 11px;">学费支付后，不能擅自退费，或转予他人使用。如因教练原因，未能完成练车或路考计划的，本驾校将退还未完成的那部分学费。学员确因特殊原因申请退费的，将收取所缴学费30%的毁约费用。
+                        <h3 class="text-left" style="font-size: 11px;"> 关于学员改课、缺席和取消课程的条例</h3>
+                        <p class="fs-rem" style="font-size: 11px;">鉴于您访问本网站并和我们约课我们认为您已经和我们达成一致认可，如果您没能及时取消课程或者无通知缺席，将会产生一定的费用，在此我们提醒您在预约时予以阅读并理解。
                         </p>
                     </div>
                     <div class="col-lg-12">
-                        <h3 class="text-left" style="font-size: 11px;">练车/排课须知</h3>
-                        <p class="fs-rem" style="font-size: 11px;"> 所有下周课程将会在周末前安排妥当。May教练将与学员商议好双方下周适宜的最佳练车时段。学员须按时到达和教练预约的会面地点。学员未能在24小时前电话或短信通知教练而无故缺席预约好的课时，将会被收取一堂课的费用作为缺课费。
+                        <h3 class="text-left" style="font-size: 11px;">@取消课程或退课</h3>
+                        <p class="fs-rem" style="font-size: 11px;"> 学员一旦预订课程或路考并支付费用后就不得取消课程，也不可转给他人使用。驾校有保留不予退款的权利。
+                        </p>
+                    </div>
+                    <div class="col-lg-12">
+                        <h3 class="text-left" style="font-size: 11px;">取消课程或退课特殊条例：</h3>
+                        <p class="fs-rem" style="font-size: 11px;"> 如果是因为驾校原因，使得学员无法按原计划练车或者完成您的路考的，驾校将剩余的未完成部分学费退予您。
+                        </p>
+                    </div>
+                    <div class="col-lg-12">
+                        <h3 class="text-left" style="font-size: 11px;">@修改学车课程时间</h3>
+                        <p class="fs-rem" style="font-size: 11px;"> 如果您在24小时前提前通知我们改课，我们将不收取任何费用。如果您的改课通知已经晚于开课前24小时，我们将收取一节课的费用作为课程调整费。<br>如果您在规定的时间内，没有准时抵达约定的练车或者路考地点，并且迟到时间超过10分钟，驾校将计入课程时间内或保留取消本次课程的权利，并不予退款。
                         </p>
                     </div>
                 </div>
