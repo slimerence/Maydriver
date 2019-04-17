@@ -9,12 +9,12 @@
             <div class="wow fadeIn text-center">
                 <h2>墨尔本驾校价格</h2>
                 <h1 style="font-size: 20px;">澳洲考驾照 | 澳洲学车</h1>
-                <p class="mb-0">1堂=45分钟  套课价39元/堂 单次课40元/堂<br/>路考：教练车+教练陪同<br/>包考过：不限次数带路考考过为止
+                <p class="mb-0">1堂=45分钟  套课价39元/堂 单次课40元/堂 单次陪考用车$120<br/>路考：教练车+教练陪同<br/>包考过：不限次数带路考考过为止
                 </p>
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
-                <caption>套餐费用不含GST，转账时需加10% GST，所缴纳费用有效期2年，过期无效。
+                <caption>所缴纳费用有效期2年，过期无效。
                     <div class="mt-1 d-flex flex-wrap w-100">
                         <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
                         <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
