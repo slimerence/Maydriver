@@ -20,7 +20,7 @@
                         <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
                         <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>
                         <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div></div>
-                    <p>注*：学员使用网上转账缴费时，请转学费数额+GST（学费的10%），并留下手机号码作为Reference方便核对。</p>
+                    <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>
                 </caption>
                 <thead>
                 <tr>
