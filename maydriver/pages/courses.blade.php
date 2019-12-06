@@ -9,8 +9,7 @@
             <div class="wow fadeIn text-center">
                 <h2>墨尔本驾校价格</h2>
                 <h1 style="font-size: 20px;">澳洲考驾照 | 澳洲学车</h1>
-                <p class="mb-0">1堂=45分钟  套课价39元/堂 单次课40元/堂 单次陪考用车$120<br/>路考：教练车+教练陪同<br/>包考过：不限次数带路考考过为止
-                </p>
+                <p class="mb-0">1堂=45分钟  套课价$90/堂 单堂课（非套课）$45/堂 单次陪考用车$120 单次课90分钟2堂</p>
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
@@ -27,16 +26,14 @@
                     <th scope="col">堂数</th>
                     <th scope="col">价格</th>
                     <th scope="col">含1考</th>
-                    <th scope="col">包考过</th>
                 </tr>
                 </thead>
 
                 <?php $output = "<tbody>";
                 for ($row=1;$row<16;$row++){
                     $output .= "<tr><td>".($row*2)."堂</td>";
-                    $output .= "<td>".($row*78)."</td>";
-                    $output .= "<td>".($row*78+120)."</td>";
-                    $output .= "<td>".($row*78+220)."</td></tr>";
+                    $output .= "<td>".($row*90)."</td>";
+                    $output .= "<td>".($row*90+120)."</td></tr>";
                 }
                 $output .= "</tbody>";
                 echo $output;

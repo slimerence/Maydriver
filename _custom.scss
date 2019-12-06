@@ -330,3 +330,14 @@ body, html{
     margin: 0.2em 0 0.4em 0;
   }
 }
+
+.fixed-wechat{
+  width: 80px;
+  height: 80px;
+  position: fixed;
+  border-radius: 40px;
+  box-shadow: 2px 2px 12px #c3c3c3;
+  z-index:999;
+  bottom:5%;
+  right:5%;
+}

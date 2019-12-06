@@ -13,6 +13,6 @@
 <!-- Contact form JavaScript -->
 <script src="{{url('js/all.js')}}"></script>
 <script src="{{url('js/jqBootstrapValidation.js')}}"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.js" integrity="sha256-+kSfYaELtdxwIN+oQ7+/0Lgza4Z182hYZ02HMd8Wblg=" crossorigin="anonymous"></script>
 <!-- Custom scripts for this theme -->
 <script src="{{url('js/vitality.js')}}"></script>
