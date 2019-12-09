@@ -9,7 +9,7 @@
             <div class="wow fadeIn text-center">
                 <h2>墨尔本驾校价格</h2>
                 <h1 style="font-size: 20px;">澳洲考驾照 | 澳洲学车</h1>
-                <p class="mb-0">1堂=45分钟  套课价$90/堂 单堂课（非套课）$45/堂 单次陪考用车$120 单次课90分钟2堂</p>
+                <p class="mb-0">1堂=45分钟 单次课90分钟2堂 套餐价$39/堂(套餐定义：6堂以上，或含1次路考的2堂以上) 非套餐单堂价$45/堂 单次陪考用车$120 </p>
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
@@ -18,8 +18,8 @@
                         <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
                         <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
                         <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>
-                        <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div></div>
                     <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>
+                    <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div></div>
                 </caption>
                 <thead>
                 <tr>
