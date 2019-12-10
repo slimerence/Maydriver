@@ -16,10 +16,11 @@
                 <caption>所缴纳费用有效期2年，过期无效。
                     <div class="mt-1 d-flex flex-wrap w-100">
                         <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
+                        <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div>
                         <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
                         <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>
                     <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>
-                    <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div></div>
+                    </div>
                 </caption>
                 <thead>
                 <tr>
@@ -32,8 +33,8 @@
                 <?php $output = "<tbody>";
                 for ($row=1;$row<16;$row++){
                     $output .= "<tr><td>".($row*2)."堂</td>";
-                    $output .= "<td>".($row*90)."</td>";
-                    $output .= "<td>".($row*90+120)."</td></tr>";
+                    $output .= "<td>".($row*78)."</td>";
+                    $output .= "<td>".($row*78+120)."</td></tr>";
                 }
                 $output .= "</tbody>";
                 echo $output;
