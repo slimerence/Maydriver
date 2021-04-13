@@ -77,14 +77,16 @@
                     <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>
                     </div>
                 </caption>
+                <thead>
+                <tr>
+                    <th scope="col" colspan="3" class="text-center"><h4>零基础<br>（含已获海外驾照但未上过路的学员）</h4></th>
+                </tr>
+                </thead>
                 <tbody>
                 <tr>
-                    <td colspan="3" style="text-align: center;"><h4>零基础<br>（含已获海外驾照但未上过路的学员）</h4></td>
-                </tr>
-                <tr>
-                    <td scope="row" style="border-right: 1px solid #dee2e6; border-top: 2px solid #ef4035;">10次 + 1路考</td>
-                    <td style="border-right: 1px solid #dee2e6; border-top: 2px solid #ef4035;">$980</td>
-                    <td style="border-top: 2px solid #ef4035;">（适用于平时无亲友可陪练的学员）</td>
+                    <td scope="row" style="border-right: 1px solid #dee2e6; ">10次 + 1路考</td>
+                    <td style="border-right: 1px solid #dee2e6;">$980</td>
+                    <td>（适用于平时无亲友可陪练的学员）</td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">8次 + 1路考</td>
