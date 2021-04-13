@@ -47,17 +47,23 @@
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
                 <caption>*预订教练车路考时需提交$50路考专用车定金</caption>
+                <thead>
+                <tr>
+                    <th scope="col">堂数</th>
+                    <th scope="col">价格</th>
+                </tr>
+                </thead>
                 <tbody>
                 <tr>
-                    <td>套餐：<br>（定义 - 3次或3次以上课，含1次路考+1次课或以上）</td>
+                    <td scope="row">套餐：<br>（定义 - 3次或3次以上课，含1次路考+1次课或以上）</td>
                     <td>课：$83/次<br>考：$150/次</td>
                 </tr>
                 <tr>
-                    <td>非套餐：</td>
+                    <td scope="row">非套餐：</td>
                     <td>课：$90/次</td>
                 </tr>
                 <tr>
-                    <td>海外驾照非路考陪练：</td>
+                    <td scope="row">海外驾照非路考陪练：</td>
                     <td>3小时普及交规带练：$300</td>
                 </tr>
             </table>
