@@ -47,7 +47,16 @@
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
-                <caption>*预订教练车路考时需提交$50路考专用车定金</caption>
+                <caption>*预订教练车路考时需提交$50路考专用车定金
+                    <div class="mt-1 d-flex flex-wrap w-100">
+                        <p>所缴纳费用有效期2年，过期无效。</p>
+                        <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
+                        <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div>
+                        <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
+                        <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>
+                        <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>
+                    </div>
+                </caption>
                 <tbody>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">套餐：<br>（定义 - 3次或3次以上课，含1次路考+1次课或以上）</td>
