@@ -93,13 +93,17 @@
                     <td style="border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">$815</td>
                     <td style="border-bottom: 1px solid #dee2e6;">（适用于日常有亲友可陪练的学员）</td>
                 </tr>
+                </tbody>
+                <thead>
                 <tr>
-                    <td colspan="3" style="text-align: center;"><h4>海外驾照换证<br>（有驾车基础的学员）</h4></td>
+                    <th scope="col" colspan="3" class="text-center"><h4>海外驾照换证<br>（有驾车基础的学员）</h4></th>
                 </tr>
+                </thead>
+                <tbody>
                 <tr>
-                    <td scope="row" style="border-right: 1px solid #dee2e6; border-top: 2px solid #ef4035;">2次 + 1路考</td>
-                    <td style="border-right: 1px solid #dee2e6; border-top: 2px solid #ef4035;">$316</td>
-                    <td style="border-top: 2px solid #ef4035;">（适用于常在澳洲开车的学员）</td>
+                    <td scope="row" style="border-right: 1px solid #dee2e6;">2次 + 1路考</td>
+                    <td style="border-right: 1px solid #dee2e6;">$316</td>
+                    <td>（适用于常在澳洲开车的学员）</td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">4次 + 1路考</td>
