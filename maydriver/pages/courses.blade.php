@@ -30,15 +30,15 @@
 {{--                </tr>--}}
 {{--                </thead>--}}
 
-{{--                <?php  /* $output = "<tbody>"; --}}
-{{--                for ($row=1;$row<16;$row++){--}}
-{{--                    $output .= "<tr><td>".($row*2)."堂</td>";--}}
-{{--                    $output .= "<td>".($row*78)."</td>";--}}
-{{--                    $output .= "<td>".($row*78+120)."</td></tr>";--}}
-{{--                }--}}
-{{--                $output .= "</tbody>";--}}
-{{--                echo $output; */--}}
-{{--                ?>--}}
+                <?php  /* $output = "<tbody>";
+                for ($row=1;$row<16;$row++){
+                    $output .= "<tr><td>".($row*2)."堂</td>";
+                    $output .= "<td>".($row*78)."</td>";
+                    $output .= "<td>".($row*78+120)."</td></tr>";
+                }
+                $output .= "</tbody>";
+                echo $output; */
+                ?>
 {{--            </table>--}}
 
             <div class="wow fadeIn text-center">
