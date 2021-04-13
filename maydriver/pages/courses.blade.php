@@ -49,7 +49,7 @@
             <table class="table wow fadeIn pricetable table-hover">
                 <caption>*预订教练车路考时需提交$50路考专用车定金
                     <div class="mt-1 d-flex flex-wrap w-100">
-                        <p>所缴纳费用有效期2年，过期无效。</p>
+                        <div class="flex-fill">所缴纳费用有效期2年，过期无效。</div>
                         <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
                         <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div>
                         <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
