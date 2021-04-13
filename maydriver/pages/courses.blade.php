@@ -42,7 +42,8 @@
 {{--            </table>--}}
 
             <div class="wow fadeIn text-center">
-                <h2>基础收费（单次课90分钟）</h2>
+                <h2>基础收费</h2>
+                <h1 style="font-size: 20px;">（单次课90分钟）</h1>
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
