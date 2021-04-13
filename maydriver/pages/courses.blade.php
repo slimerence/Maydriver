@@ -6,40 +6,62 @@
 
     <section class="page-section bg-light" id="services">
         <div class="container">
-            <div class="wow fadeIn text-center">
-                <h2>墨尔本驾校价格</h2>
-                <h1 style="font-size: 20px;">澳洲考驾照 | 澳洲学车</h1>
-                <p class="mb-0">1堂=45分钟 单次课90分钟2堂 套餐价$39/堂(套餐定义：6堂以上，或含1次路考的2堂以上) 非套餐单堂价$45/堂 单次陪考用车$120 </p>
-            </div>
-            <hr class="colored">
-            <table class="table wow fadeIn pricetable table-hover">
-                <caption>所缴纳费用有效期2年，过期无效。
-                    <div class="mt-1 d-flex flex-wrap w-100">
-                        <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
-                        <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div>
-                        <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>
-                        <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>
-                    <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>
-                    </div>
-                </caption>
-                <thead>
-                <tr>
-                    <th scope="col">堂数</th>
-                    <th scope="col">价格</th>
-                    <th scope="col">含1考</th>
-                </tr>
-                </thead>
+{{--            <div class="wow fadeIn text-center">--}}
+{{--                <h2>墨尔本驾校价格</h2>--}}
+{{--                <h1 style="font-size: 20px;">澳洲考驾照 | 澳洲学车</h1>--}}
+{{--                <p class="mb-0">1堂=45分钟 单次课90分钟2堂 套餐价$39/堂(套餐定义：6堂以上，或含1次路考的2堂以上) 非套餐单堂价$45/堂 单次陪考用车$120 </p>--}}
+{{--            </div>--}}
+{{--            <hr class="colored">--}}
+{{--            <table class="table wow fadeIn pricetable table-hover">--}}
+{{--                <caption>所缴纳费用有效期2年，过期无效。--}}
+{{--                    <div class="mt-1 d-flex flex-wrap w-100">--}}
+{{--                        <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>--}}
+{{--                        <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div>--}}
+{{--                        <div class="flex-fill"><span class="font-weight-bold">BSB:</span>063-574</div>--}}
+{{--                        <div class="flex-fill"><span class="font-weight-bold">ACC:</span>1035 9798</div>--}}
+{{--                    <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>--}}
+{{--                    </div>--}}
+{{--                </caption>--}}
+{{--                <thead>--}}
+{{--                <tr>--}}
+{{--                    <th scope="col">堂数</th>--}}
+{{--                    <th scope="col">价格</th>--}}
+{{--                    <th scope="col">含1考</th>--}}
+{{--                </tr>--}}
+{{--                </thead>--}}
 
-                <?php $output = "<tbody>";
-                for ($row=1;$row<16;$row++){
-                    $output .= "<tr><td>".($row*2)."堂</td>";
-                    $output .= "<td>".($row*78)."</td>";
-                    $output .= "<td>".($row*78+120)."</td></tr>";
-                }
-                $output .= "</tbody>";
-                echo $output;
-                ?>
-            </table>
+{{--                <?php $output = "<tbody>";--}}
+{{--                for ($row=1;$row<16;$row++){--}}
+{{--                    $output .= "<tr><td>".($row*2)."堂</td>";--}}
+{{--                    $output .= "<td>".($row*78)."</td>";--}}
+{{--                    $output .= "<td>".($row*78+120)."</td></tr>";--}}
+{{--                }--}}
+{{--                $output .= "</tbody>";--}}
+{{--                echo $output;--}}
+{{--                ?>--}}
+{{--            </table>--}}
+
+            <div class="col-lg-12 mt-5 ">
+                <h2 class="text-center">基础收费（单次课90分钟）</h2>
+                <hr class="colored">
+                <div class="local-wrap">
+                    <h3>套餐：（定义 - 3次或3次以上课，含1次路考+1次课或以上）</h3>
+                    <ul>
+                        <li>课：$83/次</li>
+                        <li>考：$150/次</li>
+                    </ul>
+                    <h3>非套餐：</h3>
+                    <ul>
+                        <li>课：$90/次</li>
+                    </ul>
+                    <h3>海外驾照非路考陪练：</h3>
+                    <ul>
+                        <li>3小时普及交规带练：$300</li>
+                    </ul>
+                    <p>*预订教练车路考时需提交$50路考专用车定金</p>
+                </div>
+            </div>
+
             <div class="wow fadeIn text-center">
                 <p class="mb-0">学车无压力，报名有惊喜：凡购买套餐的学员，路考前获赠考前攻略包，路考通过后赠红、绿P及盲区镜一套</p>
             </div>
