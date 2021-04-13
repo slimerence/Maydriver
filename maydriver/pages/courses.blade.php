@@ -41,20 +41,12 @@
                 ?>
 {{--            </table>--}}
 
-
             <div class="wow fadeIn text-center">
                 <h2>基础收费（单次课90分钟）</h2>
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
                 <caption>*预订教练车路考时需提交$50路考专用车定金</caption>
-                <thead>
-                <tr>
-                    <th scope="col">堂数</th>
-                    <th scope="col">价格</th>
-                    <th scope="col">含1考</th>
-                </tr>
-                </thead>
                 <tbody>
                 <tr>
                     <td>套餐：<br>（定义 - 3次或3次以上课，含1次路考+1次课或以上）</td>
