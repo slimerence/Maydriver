@@ -79,9 +79,7 @@
                 </caption>
                 <tbody>
                 <tr>
-                    <td></td>
-                    <td style="text-align: center;"><h4>零基础<br>（含已获海外驾照但未上过路的学员）</h4></td>
-                    <td></td>
+                    <td colspan="3" style="text-align: center;"><h4>零基础<br>（含已获海外驾照但未上过路的学员）</h4></td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6; border-top: 2px solid #ef4035;">10次 + 1路考</td>
@@ -94,9 +92,7 @@
                     <td style="border-bottom: 1px solid #dee2e6;">（适用于日常有亲友可陪练的学员）</td>
                 </tr>
                 <tr>
-                    <td></td>
-                    <td style="text-align: center;"><h4>海外驾照换证<br>（有驾车基础的学员）</h4></td>
-                    <td></td>
+                    <td colspan="3" style="text-align: center;"><h4>海外驾照换证<br>（有驾车基础的学员）</h4></td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6; border-top: 2px solid #ef4035;">2次 + 1路考</td>
@@ -108,7 +104,7 @@
                     <td style="border-right: 1px solid #dee2e6;">$482</td>
                     <td>（适用于不常在澳洲开车的学员）</td>
                 </tr>
-                </tbody>>
+                </tbody>
             </table>
 
             <div class="wow fadeIn text-center">
