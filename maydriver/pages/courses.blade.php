@@ -77,10 +77,12 @@
                     <p>注*：学员使用网上转账缴费时，请留下手机号码作为Reference方便核对。</p>
                     </div>
                 </caption>
-                <tbody>
+                <thead>
                 <tr>
-                    <td scope="row" style="border-bottom: 2px solid #ef4035;">零基础<br>（含已获海外驾照但未上过路的学员）</td>
+                    <th style="border-bottom: 2px solid #ef4035;"><b>零基础<br>（含已获海外驾照但未上过路的学员）</b></th>
                 </tr>
+                </thead>
+                <tbody>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">10次 + 1路考</td>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">$980</td>
@@ -91,9 +93,16 @@
                     <td scope="row" style="border-right: 1px solid #dee2e6;">$815</td>
                     <td>（适用于日常有亲友可陪练的学员）</td>
                 </tr>
+                </tbody>
+                <thead>
                 <tr>
-                    <td scope="row" style="border-bottom: 2px solid #ef4035;">海外驾照换证<br>（有驾车基础的学员）</td>
+                    <th style="border-bottom: 2px solid #ef4035;"><b>海外驾照换证<br>（有驾车基础的学员）</b></th>
                 </tr>
+                </thead>
+{{--                <tr>--}}
+{{--                    <td scope="row" style="border-bottom: 2px solid #ef4035;">海外驾照换证<br>（有驾车基础的学员）</td>--}}
+{{--                </tr>--}}
+                <tbody>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">2次 + 1路考</td>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">$316</td>
