@@ -67,7 +67,7 @@
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">海外驾照非路考陪练：</td>
-                    <td>3小时普及交规带练：$300</td>
+                    <td>4小时普及交规带练：$300</td>
                 </tr>
             </table>
 
