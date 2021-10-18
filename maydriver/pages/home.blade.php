@@ -173,6 +173,17 @@
                         <span style="font-weight:500; font-size:24px;">花了钱，挨骂，没尊严</span>
                     </div>
                 </div>
+            
+            
+            
+            </div>
+            <div class="row text-center">
+                <div class="col">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0" data-wow-delay=".2s">
+                        <h2 class="text-center pb-3" style="font-size: 28px;">资深金牌女教练May, 解决您的一切烦恼！！！</h2>
+                        <p class="text-center" style="font-size: 24px;">实力说话，路考通过学员榜，全部真实个案</p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
