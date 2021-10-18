@@ -142,14 +142,14 @@
                 <h2>避免踩坑</h2>
             </div>
             <hr class="colored">
-            <div class="row mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5" style="border: 1px solid;">
-                <div class="col mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5">
+            <div class="row mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5 mb-4">
+                <div class="col mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5 pt-4" style="border: 1px solid;">
                     <div class="wow fadeIn px-4 pb-4" >
                         <i class="fa fa-times fa-2x"></i>
                         <span style="font-weight:500; font-size:24px;">收费黑洞 </span>
                         <span>教练无教程计划，不断要求加课，感觉像个无底洞</span>
                     </div>
-                    <div class="wow fadeIn px-4 pb-4" >
+                    <div class="wow fadeIn px-4 pb-4 mr-lg-5 mx-lg-5" >
                         <i class="fa fa-times fa-2x"></i>
                         <span style="font-weight:500; font-size:24px;">不教控车技巧</span>
                         <span>学员越练越没信心，老get不到关键点，学了多次课没进步，越学越迷茫</span>
