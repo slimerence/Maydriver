@@ -78,7 +78,7 @@
             <hr class="colored">
             <div class="row">
                 <div class="col" style="background-color:#C3DDB0; margin:15px;">
-                    <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center" style="font-size: 28px;">易学易上手</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：零基础的学员）</h3>
                         <p class="mb-1">*** 零基础3次课可上路，基本可以控车；<br> 全程8-10次课即可获取驾照，通过率90%</p>
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="col" style="background-color:#6DBF42; margin:15px;">
-                    <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center" style="font-size: 28px;">无盲区路考集训</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：海外驾照换维州驾照的学员）</h3>
                         <p class="mb-1">*** 2次课，路考技巧讲解+路考重点难点路口历练+路考路线</p>
@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="col" style="background-color:#C3DDB0; margin:15px;">
-                    <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center" style="font-size: 28px;">精准纠错，快速拿证</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：有路考失败经历的学员）</h3>
                         <p class="mb-1">*** 精准找出学员短板，强化整改，力排短板与不足</p>
@@ -108,7 +108,7 @@
             </div>
             <div class="row">
                 <div class="col" style="background-color:#6DBF42; margin:15px;">
-                    <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center pb-3" style="font-size: 28px;">轻松学交规</h2>
                         <p class="mb-1">*** 实地驾车结合图文讲解，学得快，记得牢</p>
                         <p class="mb-1">*** 复杂路口，重大路口练习</p>
@@ -116,7 +116,7 @@
                     </div>
                 </div>
                 <div class="col" style="background-color:#C3DDB0; margin:15px;">
-                    <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center pb-3" style="font-size: 28px;">实力教学</h2>
                         <p class="mb-1">*** 最少课，最省钱，快速拿证</p>
                         <p class="mb-1">*** 好脾气，有耐心，一对一教学</p>
@@ -127,7 +127,7 @@
                     </div>
                 </div>
                 <div class="col" style="background-color:#6DBF42; margin:15px;">
-                    <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center pb-3" style="font-size: 28px;">“教”练  非“陪”练</h2>
                         <p class="mb-1">授课范围：自动拨车辆。Burwood east, Ringwood 考区及考区周边地区</p>
                     </div>
