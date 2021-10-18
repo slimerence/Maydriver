@@ -142,7 +142,7 @@
                 <h2>避免踩坑</h2>
             </div>
             <hr class="colored">
-            <div class="row text-center">
+            <div class="row">
                 <div class="col">
                     <div class="wow fadeIn px-4 pb-4 " data-wow-delay=".2s">
                         <i class="fa fa-times fa-2x"></i>
