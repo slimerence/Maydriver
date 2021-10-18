@@ -145,8 +145,23 @@
             <div class="row text-center">
                 <div class="col">
                     <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
-                        <i class="fa fa-language fa-2x"></i>
-                        <p class="mb-0">标准普通话/英语双语教学</p>
+                        <i class="fa fa-times fa-2x"></i>
+                        <span class="mb-0" style="font-weight:500; font-size:24px;">收费黑洞</p>
+                        <p>教练无教程计划，不断要求加课，感觉像个无底洞</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
+                        <i class="fa fa-times fa-2x"></i>
+                        <span class="mb-0" style="font-weight:500; font-size:24px;">不教控车技巧</p>
+                        <p>学员越练越没信心，老get不到关键点，学了多次课没进步，越学越迷茫</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
+                        <i class="fa fa-times fa-2x"></i>
+                        <span class="mb-0" style="font-weight:500; font-size:24px;">不教控车技巧</p>
+                        <p>学员越练越没信心，老get不到关键点，学了多次课没进步，越学越迷茫</p>
                     </div>
                 </div>
             </div>
