@@ -146,11 +146,9 @@
                 <div class="col">
                     <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
                         <i class="fa fa-times fa-2x"></i>
-                        <span class="mb-0" style="font-weight:500; font-size:24px;">收费黑洞</span>
-                        <p>教练无教程计划，不断要求加课，感觉像个无底洞</p>
+                        <span style="font-weight:500; font-size:24px;">收费黑洞 </span>
+                        <span>教练无教程计划，不断要求加课，感觉像个无底洞</span>
                     </div>
-                </div>
-                <div class="col">
                     <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
                         <i class="fa fa-times fa-2x"></i>
                         <span class="mb-0" style="font-weight:500; font-size:24px;">不教控车技巧</p>
