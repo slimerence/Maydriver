@@ -82,3 +82,9 @@ a.text-primary {
 .bg-inverse {
   background-color: $themeDark !important;
 }
+
+@media (max-width: 992px) {
+.row-lg {
+    display: block;
+}
+}
