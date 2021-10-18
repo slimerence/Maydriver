@@ -164,19 +164,13 @@
                         <span style="font-weight:500; font-size:24px;">知识讲解不全面</span>
                         <span>开到哪说到哪，路面知识单一不全。路考知识及技巧讲解片面，路考中容易踩坑</span>
                     </div>
-                </div>
-            </div>
-            <div class="row text-center">
-                <div class="col">
-                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 " data-wow-delay=".2s">
                         <i class="fa fa-times fa-2x"></i>
-                        <span class="mb-0" style="font-weight:500; font-size:24px;">口音重或解说拖沓，不清晰</p>
+                        <span style="font-weight:500; font-size:24px;">口音重或解说拖沓，不清晰</span>
                     </div>
-                </div>
-                <div class="col">
-                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
+                    <div class="wow fadeIn px-4 pb-4 " data-wow-delay=".2s">
                         <i class="fa fa-times fa-2x"></i>
-                        <span class="mb-0" style="font-weight:500; font-size:24px;">花了钱，挨骂，没尊严</p>
+                        <span style="font-weight:500; font-size:24px;">花了钱，挨骂，没尊严</span>
                     </div>
                 </div>
             </div>
