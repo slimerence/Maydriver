@@ -69,14 +69,14 @@
         </div>
     </section>
 
-    <section class="page-section bg-light" id="services">
+    <section class="page-section" id="services">
         <div class="container">
             <div class="wow fadeIn text-center">
                 <h2>用心教学，实力选May</h2>
                 <p class="mb-0">注：1次课=90分钟</p>
             </div>
             <hr class="colored">
-            <div class="row">
+            <div class="row row-lg">
                 <div class="col">
                     <div class="wow fadeIn px-4 pb-4 pb-lg-0" data-wow-delay=".2s">
                         <h2 class="text-center" style="font-size: 26px;">易学易上手</h2>
