@@ -77,7 +77,7 @@
             </div>
             <hr class="colored">
             <div class="row">
-                <div class="col" style="background-color:#83B927; margin:15px;">
+                <div class="col" style="background-color:#C3DDB0; margin:15px;">
                     <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
                         <h2 class="text-center" style="font-size: 26px;">易学易上手</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：零基础的学员）</h3>
@@ -96,13 +96,13 @@
                         <p class="mb-1">*** 两次课课程透明，无收费黑洞。未有维州驾车经验的学员需3-4次课</p>
                     </div>
                 </div>
-                <div class="col" style="background-color:#83B927; margin:15px;">
+                <div class="col" style="background-color:#C3DDB0; margin:15px;">
                     <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
                         <h2 class="text-center" style="font-size: 26px;">精准纠错，快速拿证</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：有路考失败经历的学员）</h3>
                         <p class="mb-1">*** 精准找出学员短板，强化整改，力排短板与不足</p>
                         <p class="mb-1">*** 路考技巧+路考路线+重点难点路口，量身定制路考方案。<br>避免路考中踩坑。通过率95%</p>
-                        <p class="mb-1">*** 2-3次课，课程透明，无收费黑洞/p>
+                        <p class="mb-1">*** 2-3次课，课程透明，无收费黑洞</p>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@
                         <p class="mb-1">*** 交规知识讲解全面，详析如何避免罚单及安全驾驶</p>
                     </div>
                 </div>
-                <div class="col" style="background-color:#83B927; margin:15px;">
+                <div class="col" style="background-color:#C3DDB0; margin:15px;">
                     <div class="wow fadeIn px-4 pb-4 pt-4" data-wow-delay=".2s">
                         <h2 class="text-center pb-3" style="font-size: 26px;">实力教学</h2>
                         <p class="mb-1">*** 最少课，最省钱，快速拿证</p>
