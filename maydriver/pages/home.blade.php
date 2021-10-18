@@ -143,7 +143,7 @@
             </div>
             <hr class="colored">
             <div class="row mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5 mb-4">
-                <div class="col mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5 pt-4" style="border: 1px solid;">
+                <div class="col mx-3 mr-3 mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5 pt-4" style="border: 1px solid;">
                     <div class="wow fadeIn px-4 pb-4 mr-lg-5 mx-lg-5" >
                         <i class="fa fa-times fa-2x"></i>
                         <span style="font-weight:500; font-size:24px;">收费黑洞 </span>
@@ -184,7 +184,7 @@
             </div>
             <div class="row">
                 <div class="col">
-                    <div class="wow fadeIn px-4 pb-4 pb-lg-0">
+                    <div class="wow fadeIn px-4 pt-2">
                         <p style="color: #6c757d;">*由于个人原因临时取消路考，被迫取消路考及被迫改期路考的，教练将按原收费收取学员费用（若提前7天通知教练，收取定金$50，否则全费收取），如：忘记携带个人身份证明，驾照及路考其他相关证明；不能提供120小时log book记录或记录不合要求; 考前视力检查不合格；风险考试过期被迫取消路考或改期考；考前服用药物遭考官拒绝带考；路考前驾照证明在吊销期或法律追诉期导致考官拒绝带考，等等。学员私自定考，与别的学员路考时间相冲突，导致教练不能带考的，将收取$50费用。</p>
                     </div>
                 </div>
