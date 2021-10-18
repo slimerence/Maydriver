@@ -142,7 +142,7 @@
                 <h2>避免踩坑</h2>
             </div>
             <hr class="colored">
-            <div class="row mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5">
+            <div class="row mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5" style="padding: 2em; margin: 2em 0;border: 1px solid;">
                 <div class="col mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5">
                     <div class="wow fadeIn px-4 pb-4 mr-lg-5 mx-lg-5 pr-lg-5 px-lg-5" data-wow-delay=".2s">
                         <i class="fa fa-times fa-2x"></i>
