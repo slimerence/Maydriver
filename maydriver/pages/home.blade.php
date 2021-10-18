@@ -157,11 +157,34 @@
                         <p>学员越练越没信心，老get不到关键点，学了多次课没进步，越学越迷茫</p>
                     </div>
                 </div>
+            </div>
+            <div class="row text-center">
                 <div class="col">
                     <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
                         <i class="fa fa-times fa-2x"></i>
-                        <span class="mb-0" style="font-weight:500; font-size:24px;">不教控车技巧</p>
-                        <p>学员越练越没信心，老get不到关键点，学了多次课没进步，越学越迷茫</p>
+                        <span class="mb-0" style="font-weight:500; font-size:24px;">找不出驾驶毛病</p>
+                        <p>学员学了多次，总感觉不安全，控车不稳，车身晃，路面驾驶有磕顿感。路考中容易因自身毛病踩坑</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
+                        <i class="fa fa-times fa-2x"></i>
+                        <span class="mb-0" style="font-weight:500; font-size:24px;">知识讲解不全面</p>
+                        <p>开到哪说到哪，路面知识单一不全。路考知识及技巧讲解片面，路考中容易踩坑</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
+                        <i class="fa fa-times fa-2x"></i>
+                        <span class="mb-0" style="font-weight:500; font-size:24px;">口音重或解说拖沓，不清晰</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="wow fadeIn px-4 pb-4 pb-lg-0 " data-wow-delay=".2s">
+                        <i class="fa fa-times fa-2x"></i>
+                        <span class="mb-0" style="font-weight:500; font-size:24px;">花了钱，挨骂，没尊严</p>
                     </div>
                 </div>
             </div>
