@@ -77,7 +77,7 @@
             </div>
             <hr class="colored">
             <div class="row">
-                <div class="col" style="background-color:#C3DDB0; margin:15px;">
+                <div class="col mt-2 mb-2 mr-lg-2 mx-3 px-0 pr-0 px-lg-3 pr-lg-3" style="background-color:#C3DDB0;">
                     <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center" style="font-size: 28px;">易学易上手</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：零基础的学员）</h3>
@@ -99,7 +99,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col" style="background-color:#6DBF42; margin:15px;">
+                <div class="col mt-2 mb-2 mx-lg-2 mr-3 px-0 pr-0 px-lg-3 pr-lg-3" style="background-color:#6DBF42;">
                     <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center" style="font-size: 28px;">无盲区路考集训</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：海外驾照换维州驾照的学员）</h3>
