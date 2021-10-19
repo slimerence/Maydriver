@@ -81,7 +81,9 @@
                     <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center" style="font-size: 28px;">易学易上手</h2>
                         <h3 style="font-size: 16px;" class="text-center pb-3">（适用：零基础的学员）</h3>
-                        <p class="mb-1">*** 零基础3次课可上路，基本可以控车；<br> 全程8-10次课即可获取驾照，通过率90%</p>
+                        <p class="mb-1">
+                            <i class="fa fa-angle-right"></i> 零基础3次课可上路，基本可以控车；<br> 全程8-10次课即可获取驾照，通过率90%
+                        </p>
                         <p class="mb-1">*** 课程透明，无收费黑洞</p>
                         <p class="mb-1">*** 控车技巧+交规学习+安全意识+路考细节+路考路线，五合一教学</p>
                         <p class="mb-1">*** 双油门，双刹车专业教练车，安全有保障</p>
