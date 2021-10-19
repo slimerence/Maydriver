@@ -117,6 +117,8 @@
                         </p>
                     </div>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col" style="background-color:#C3DDB0; margin:15px;">
                     <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center" style="font-size: 28px;">精准纠错，快速拿证</h2>
@@ -135,8 +137,6 @@
                         </p>
                     </div>
                 </div>
-            </div>
-            <div class="row">
                 <div class="col" style="background-color:#6DBF42; margin:15px;">
                     <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center pb-3" style="font-size: 28px;">轻松学交规</h2>
@@ -154,6 +154,8 @@
                         </p>
                     </div>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col" style="background-color:#C3DDB0; margin:15px;">
                     <div class="wow fadeIn px-4 pb-4 pt-4">
                         <h2 class="text-center pb-3" style="font-size: 28px;">实力教学</h2>
