@@ -47,7 +47,7 @@
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
-                <caption>*预订教练车路考时需提交$50路考专用车定金<br>所缴纳费用有效期2年，过期无效。
+                <caption>*未缴纳套餐学员在预订教练车路考时需提前交$50路考专用车定金<br>所缴纳费用有效期2年，过期无效。
                     <div class="mt-1 d-flex flex-wrap w-100">
                         <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
                         <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div>
@@ -58,7 +58,7 @@
                 </caption>
                 <tbody>
                 <tr>
-                    <td scope="row" style="border-right: 1px solid #dee2e6;">套餐：<br>（定义 - 3次或3次以上课，含1次路考+1次课或以上）</td>
+                    <td scope="row" style="border-right: 1px solid #dee2e6;">套餐：<br>（套餐定义：购买路考或购买三次课以上的）</td>
                     <td>课：$83/次<br>考：$150/次</td>
                 </tr>
                 <tr>
