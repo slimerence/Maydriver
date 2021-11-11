@@ -19,7 +19,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" integrity="sha256-tBxlolRHP9uMsEFKVk+hk//ekOlXOixLKvye5W2WR5c=" crossorigin="anonymous" />
     <link rel="stylesheet" type="text/css" href="{{ url('/css/all.css')}}"/>
 
-
+    <!-- google tracking code -->
+    <!-- Global site tag (gtag.js) - Google Ads: 10801918668 --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10801918668"></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-10801918668'); </script>
     <!-- Plugin CSS
     <link href="device-mockups/device-mockups.min.css" rel="stylesheet" type="text/css"> -->
 
