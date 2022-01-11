@@ -47,7 +47,7 @@
             </div>
             <hr class="colored">
             <table class="table wow fadeIn pricetable table-hover">
-                <caption>*未缴纳套餐学员在预订教练车路考时需提前交$50路考专用车定金<br>所缴纳费用有效期2年，过期无效。
+                <caption>*未缴纳套餐学员在预订教练车路考时需提前交$70路考专用车定金<br>所缴纳费用有效期2年，过期无效。
                     <div class="mt-1 d-flex flex-wrap w-100">
                         <div class="flex-fill"><span class="font-weight-bold">开户行：</span>Commonwealth Bank</div>
                         <div class="flex-fill"><span class="font-weight-bold">NAME:</span>SOFAR DRIVING SCHOOL</div>
@@ -59,15 +59,15 @@
                 <tbody>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">套餐：<br>（套餐定义：购买路考或购买三次课以上的）</td>
-                    <td>课：$83/次<br>考：$150/次</td>
+                    <td>课：$95/次<br>考：$160/次</td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">非套餐：</td>
-                    <td>课：$90/次</td>
+                    <td>课：$100/次</td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">海外驾照非路考陪练：</td>
-                    <td>4小时普及交规带练：$300</td>
+                    <td>3小时普及交规带练：$300</td>
                 </tr>
             </table>
 
@@ -93,12 +93,12 @@
                 <tbody>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6; ">10次 + 1路考</td>
-                    <td style="border-right: 1px solid #dee2e6;">$980</td>
+                    <td style="border-right: 1px solid #dee2e6;">$1110</td>
                     <td>（适用于平时无亲友可陪练的学员）</td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">8次 + 1路考</td>
-                    <td style="border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">$815</td>
+                    <td style="border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">$920</td>
                     <td style="border-bottom: 1px solid #dee2e6;">（适用于日常有亲友可陪练的学员）</td>
                 </tr>
                 </tbody>
@@ -110,12 +110,12 @@
                 <tbody>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">2次 + 1路考</td>
-                    <td style="border-right: 1px solid #dee2e6;">$316</td>
+                    <td style="border-right: 1px solid #dee2e6;">$350</td>
                     <td>（适用于常在澳洲开车的学员）</td>
                 </tr>
                 <tr>
                     <td scope="row" style="border-right: 1px solid #dee2e6;">4次 + 1路考</td>
-                    <td style="border-right: 1px solid #dee2e6;">$482</td>
+                    <td style="border-right: 1px solid #dee2e6;">$540</td>
                     <td>（适用于不常在澳洲开车的学员）</td>
                 </tr>
                 </tbody>
